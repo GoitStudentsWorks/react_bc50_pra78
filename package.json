@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pra78.github.io/goit-bc50-react-project/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_bc50_pra78/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.11.16",
